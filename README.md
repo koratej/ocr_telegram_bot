@@ -1,0 +1,1 @@
+# ocr_telgram_bot
